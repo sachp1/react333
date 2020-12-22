@@ -1,0 +1,31 @@
+{
+  "name": "react_test1",
+  "version": "1.0.0",
+  "description": "a tutorial of react, webpack , babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sachinp98@bitbucket.org/sachinp98/reacttest1.git"
+  },
+  "keywords": [
+    "webpack",
+    "babel",
+    "creative",
+    "react"
+  ],
+  "author": "sachin prakash",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/sachinp98/reacttest1#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "path": "^0.12.7",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
