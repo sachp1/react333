@@ -1,6 +1,6 @@
-#hello
+# hello
 
-##Configure React webpack and babel
+## Configure React webpack and babel
 
 - ```npm install --save-dev @babel/core @babel/preset-env @babel/preset-react @babel/node babel-loader```
 #
