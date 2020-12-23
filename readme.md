@@ -7,3 +7,6 @@
 - ```npm install --save-dev style-loader css-loader sass-loader node-sass```
 #
 - ```npm install --save-dev file-loader @babel/plugin-proposal-class-properties```
+
+
+///ADDED EX
